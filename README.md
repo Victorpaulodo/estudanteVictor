@@ -2,8 +2,9 @@ Boas vindas ao meu perfil 💙💙
 
 Ola
 Meu nome é victor
-sou estudante do alura 
-Estou me desenvolvendo na linguagem JavaScript
+
+sou estudante do alura
+
 Estou me desenvolvendo na linguagem JavaScript
 
 
